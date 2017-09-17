@@ -1,0 +1,10 @@
+..\cd Git
+..\mkdir GitHubRepoAssignment
+..\cd githubrepoassignment
+..\git init
+..\copy NUL readme.md
+..\git status
+..\git add .
+..\git commit -m "created readme.md"
+..\git remote add origin https://github.com/amalfushi/GitHubRepoAssignment.git
+..\git push -u origin master
